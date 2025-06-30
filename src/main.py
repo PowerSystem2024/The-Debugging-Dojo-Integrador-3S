@@ -1,5 +1,5 @@
 # src/main.py
-from src.services.cliente_service import ClienteService
+from src.services.clientes_service import ClienteService
 from src.services.mozo_service import MozoService
 from src.services.menu_services import MenuService
 from src.services.mesa_services import MesaService
